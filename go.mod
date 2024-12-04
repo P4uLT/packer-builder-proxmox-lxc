@@ -11,7 +11,8 @@ require (
 require (
 	github.com/Telmate/proxmox-api-go v0.0.0-20230319190157-fd86b29e0d0e
 	github.com/mitchellh/mapstructure v1.5.0
-	github.com/pkg/sftp v1.13.2
+	github.com/pkg/sftp v1.13.5
+	github.com/stretchr/testify v1.8.2
 	github.com/zclconf/go-cty v1.10.0
 	golang.org/x/crypto v0.0.0-20220517005047-85d78b3ac167
 )
@@ -82,8 +83,6 @@ require (
 	github.com/pierrec/lz4 v2.6.1+incompatible // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/ryanuber/go-glob v1.0.0 // indirect
-	github.com/stretchr/objx v0.5.0 // indirect
-	github.com/stretchr/testify v1.8.2 // indirect
 	github.com/ugorji/go/codec v1.2.6 // indirect
 	github.com/ulikunitz/xz v0.5.10 // indirect
 	go.opencensus.io v0.23.0 // indirect
